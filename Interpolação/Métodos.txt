@@ -1,0 +1,5 @@
+Interpolação por vizinho mais próximo : Refaz imagem em escala de Ciza
+
+Interpolação Bilinear: Redimensiona imagem para Dobro
+
+Interpolação Bicúbica: Redimensiona imagem para Dobro
